@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MarketplaceApp",
-    "slug": "MarketplaceApp",
+    "name": "UberClone",
+    "slug": "uberclone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An Uber clone built with React Native, Redux, Google API",
+    "githubUrl": "https://github.com/BaylyIan/UberClone"
   }
 }
