@@ -13,7 +13,7 @@ import { useNavigation } from "@react-navigation/native";
 import { useSelector } from "react-redux";
 import { selectTravelTimeInformation } from "../slices/navSlice";
 
-//temp data for now...
+//temp data for now......
 const data = [
   {
     id: "Uber-X-123",
